@@ -1,3 +1,2 @@
 奇迹暖暖在线工具
-https://github.com/lovenikkiusa/nikkiup2u.git
-
+https://lovnikkiusa.github.io/nikkiup2u
